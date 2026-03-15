@@ -1,5 +1,9 @@
 # Powerbook Training App
 
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-success?style=for-the-badge&logo=streamlit)](https://mrponyrivers-powerbook-training-app.streamlit.app/)
+
+**Live Demo:** [Open the app](https://mrponyrivers-powerbook-training-app.streamlit.app/)
+
 ---
 
 ## Overview
