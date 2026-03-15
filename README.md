@@ -77,7 +77,24 @@ step-by-step explanations
 clean Streamlit interface
 
 beginner-friendly practice flow
+## **Screenshots**
 
+### **Home**
+![Home](assets/home.png)
+
+### **Implied Probability Drill**
+![Implied Probability Drill](assets/implied-probability.png)
+
+### **EV Drill**
+![EV Drill](assets/ev-drill.png)
+
+### **No-Vig Drill**
+![No-Vig Drill](assets/no-vig-drill.png)
+
+### **Score Summary**
+![Score Summary](assets/score-summary.png)
+
+---
 Project Structure
 powerbook-training-app
 ├── app.py
